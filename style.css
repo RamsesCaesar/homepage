@@ -1,0 +1,6 @@
+html {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    padding-top: 15vh;
+}
