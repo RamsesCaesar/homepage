@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1745184543|3869621872';
+const CACHE_VERSION = '1745184804|4130060088';
 /** @type {string} */
 const CACHE_PREFIX = 'Mind Map World-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
